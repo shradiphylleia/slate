@@ -1,0 +1,95 @@
+.html {
+    background-color: whitesmoke;
+    flex-wrap: wrap;
+}
+
+.header {
+    font-size: 40px;
+    margin-top: 150px;
+    margin-left: 640px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+}
+
+.navBar {
+    margin-top: 10px;
+    padding: 2px;
+    width: fit-content;
+    height: 50px;
+}
+
+.nLinks {
+    display: inline;
+    margin-left: 10px;
+}
+
+.nLinks a {
+    margin-right: 22px;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.nLinks a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    ;
+}
+
+.intro {
+    margin-top: 2px;
+}
+
+.heading {
+    margin-left: 550px;
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.heading2 {
+    margin-left: 460px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.heading p,
+.heading2 p {
+    font-size: 52px;
+    margin: auto;
+}
+.introLogin{
+    display: flex;
+    flex-direction: row;
+    margin-left:620px;
+    margin-top:30px;
+}
+.login,.signup{
+    background-color: rgb(7, 129, 221);
+    width: 82px;
+    height:26px;
+    border:0px solid white;
+    padding:8px 0px 7px 0px;
+    border-radius:5px;
+}
+.login{
+    margin-right: 120px;
+}
+
+.login a,.signup a {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.login a{
+    margin-left:18px;
+}
+
+.signup a{
+    margin-left: 10px;
+}
+
+.login:hover,.signup:hover{
+    background-color: rgb(20, 108, 185);
+}
