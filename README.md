@@ -1,2 +1,2 @@
 # slate
-A consolidtaed notes and productivity web-app for individulas and teams
+A consolidated notes and productivity web-app for individuals and teams
