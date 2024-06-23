@@ -27,7 +27,7 @@
     text-decoration: none;
     font-size: 17px;
     color: black;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .nLinks a:hover {
@@ -92,4 +92,18 @@
 
 .login:hover,.signup:hover{
     background-color: rgb(20, 108, 185);
+}
+
+.reference{
+    margin-top: 20%;
+    display: flex;
+    background-color: rgb(230, 228, 228);
+}
+
+.box{
+    margin-left:60px;
+}
+
+.box ul{
+    list-style-type: none;
 }

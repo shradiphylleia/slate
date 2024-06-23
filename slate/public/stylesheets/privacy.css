@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(24, 23, 23);
+}
+
+body{
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    font-size:52px;
+}
+img{
+    width: 140px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+p{
+    font-size: 18px;
+}
+
+
